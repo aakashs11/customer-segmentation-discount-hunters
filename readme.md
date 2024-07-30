@@ -1,6 +1,6 @@
 # Discount hunter classification
 
-##Requirements
+## Requirements
 
 Python, pandas, jupyter notebooks
 
